@@ -1,2 +1,2 @@
 # aecSpace
-Python classes for representing AEC architectural spaces and other simple objects.
+Python classes for representing architectural spaces and other simple AEC objects.
